@@ -1,0 +1,653 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Admire\n"
+"POT-Creation-Date: 2024-01-12 19:08+0530\n"
+"PO-Revision-Date: 2024-01-12 19:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:26
+msgid "Sorry this page does not exist."
+msgstr ""
+
+#: archive.php:36
+msgid "Back"
+msgstr ""
+
+#: archive.php:37
+msgid "Next"
+msgstr ""
+
+#: archive.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:18 image.php:54 page.php:27 templates/page-builder.php:19
+#: templates/template-fullwide.php:22
+#: templates/template-gbeditor-full-wide.php:21
+#: templates/template-gbeditor.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:22 page.php:31 templates/page-builder.php:23
+#: templates/template-fullwide.php:26
+#: templates/template-gbeditor-full-wide.php:25
+#: templates/template-gbeditor.php:25
+msgid "Page"
+msgstr ""
+
+#: content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:45
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:57
+msgid "Appears on sidebar"
+msgstr ""
+
+#: functions.php:66
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:67
+msgid "Appears on blog"
+msgstr ""
+
+#: functions.php:76
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:77 functions.php:87 functions.php:97 functions.php:107
+#: functions.php:117
+msgid "Appears on page footer"
+msgstr ""
+
+#: functions.php:86
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:96
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:106
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:116
+msgid "Footer Info Box"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Copyright"
+msgstr ""
+
+#: functions.php:127
+msgid "Appears on page footer copyright"
+msgstr ""
+
+#: functions.php:162
+msgid "Open main menu"
+msgstr ""
+
+#: functions.php:163
+msgid "Close main menu"
+msgstr ""
+
+#: functions.php:164
+msgid "Expand submenu"
+msgstr ""
+
+#: functions.php:165
+msgid "Collapse submenu"
+msgstr ""
+
+#: functions.php:350
+msgid "Total"
+msgstr ""
+
+#: header-fullwide.php:31 header-nobanner.php:31 header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:32 image.php:59
+msgid "Edit"
+msgstr ""
+
+#: image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/admin/class-skt-admire-admin.php:33
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-skt-admire-welcome-notice.php:26
+msgid "Get started with SKT Admire"
+msgstr ""
+
+#: inc/admin/class-skt-admire-welcome-notice.php:46
+msgid "Admire Theme"
+msgstr ""
+
+#: inc/admin/class-skt-admire-welcome-notice.php:53
+msgid "Welcome! Thank you for choosing SKT Admire!"
+msgstr ""
+
+#: inc/admin/class-skt-admire-welcome-notice.php:76
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-skt-admire-welcome-notice.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Basic"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Basic Options"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Fonts Typography"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Site Title Font Family"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Select your desired font for the site title."
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Logo Top Spacing"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Site Content Font Family"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Select your desired font for the body"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Site Content Font Size"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Header Description Goes Here"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Select Header Layouts"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "More Header Layouts Availabel in Pro Version."
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Header Color And Typography"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Menu Font Family"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Menu Active Text Color"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Transparent Header On Frontpage"
+msgstr ""
+
+#: inc/customizer.php:334 inc/customizer.php:372
+msgid "Using this option you can managed transparent header."
+msgstr ""
+
+#: inc/customizer.php:352
+msgid ""
+"Frontpage Header Background Color Opacity [Add Value In Format : 0.1 to 1]"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Transparent Header On Inner Page/Post"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid ""
+"Inner Page/Post Header Background Color Opacity [Add Value In Format : 0.1 "
+"to 1]"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Post & Page"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Post and Page Options"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/customizer.php:417 inc/customizer.php:443 inc/customizer.php:467
+msgid "Upload Default Banner Image"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid ""
+"For Display Different Banner Image On Each Page Set Page Featured Image. Set "
+"Image Size (1400 X 270) For Better Resolution."
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Post Header Settings"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid ""
+"For Display Different Banner Image On Each Post Set Post Featured Image. Set "
+"Image Size (1400 X 270) For Better Resolution."
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "WooCoomerce Pages Header Settings"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid ""
+"For Display Different Banner Image On Each WooCommerce Page Set Featured "
+"Image. Set Image Size (1400 X 270) For Better Resolution."
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Select Single Post Layouts"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "More Single Post Layouts Availabel in Pro Version."
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "WooCommerce Shop Page and Category Layout"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "Select Layouts"
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "More Shop Page Layouts Availabel in Pro Version."
+msgstr ""
+
+#: inc/customizer.php:547
+msgid "WooCommerce Single Product Layout"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "WooCommerce Single Product Layouts"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "More Single Product Layouts Availabel in Pro Version."
+msgstr ""
+
+#: inc/customizer.php:582
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:583
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer.php:588
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/customizer.php:607
+msgid "Select Footer Layouts"
+msgstr ""
+
+#: inc/customizer.php:608
+msgid "More Footer Layouts Availabel in Pro Version."
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:635
+msgid ""
+"Scroll To Top Button appears on bottom right when you scroll down to pages."
+msgstr ""
+
+#: inc/customizer.php:649
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid ""
+"You Can Also Manage Footer Columns From Widgets >> Footer Column 1, Footer "
+"Column 2, Footer Column 3, Footer Column 4"
+msgstr ""
+
+#: inc/customizer.php:671
+msgid "Display Footer"
+msgstr ""
+
+#: inc/customizer.php:672
+msgid "Using this option you can Show/Hide footer."
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Column 1 Title"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Column 1 Content"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Column 2 Title"
+msgstr ""
+
+#: inc/customizer.php:723
+msgid "Column 2 Content"
+msgstr ""
+
+#: inc/customizer.php:733
+msgid "Column 3 Title"
+msgstr ""
+
+#: inc/customizer.php:745
+msgid "Column 3 Content"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid "Column 4 Title"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "Column 4 Content"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Footer Color"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "Footer Heading Font Size"
+msgstr ""
+
+#: inc/customizer.php:796
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:811
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:823
+msgid "Footer Box Background Color"
+msgstr ""
+
+#: inc/customizer.php:835
+msgid "Footer Box Background Color Opacity [Add Value In Format : 0.1 to 1]"
+msgstr ""
+
+#: inc/customizer.php:846
+msgid "Footer Box Link Color"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Footer Box Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/customizer.php:882
+msgid "Footer Content Color"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer.php:901
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "You Can Also Manage Copyright From Widgets >> Footer Copyright"
+msgstr ""
+
+#: inc/customizer.php:922
+msgid "Display Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Using this option you can Show/Hide footer copyright."
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Add Copyright Text Here"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:87
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:180
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: pro-customize/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: pro-customize/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12 templates/header-layouts1.php:62
+#: templates/header-layouts1.php:63
+msgid "Search"
+msgstr ""
+
+#: sidebar-blog.php:11
+msgid "Categories"
+msgstr ""
+
+#: sidebar-blog.php:17
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Pages"
+msgstr ""
+
+#: templates/header-layouts1.php:69
+msgid "My Account"
+msgstr ""
+
+#: templates/header-layouts1.php:73
+msgid "View your shopping cart"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SKT Admire"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://admiretheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Admire theme is Responsive Multipurpose WordPress and WooCommerce Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""

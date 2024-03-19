@@ -1,0 +1,698 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Admire Extra\n"
+"POT-Creation-Date: 2023-02-14 18:11+0530\n"
+"PO-Revision-Date: 2022-12-30 11:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: admire-extra.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: lib/admin/dashboard.php:20
+msgid "Admire Options"
+msgstr ""
+
+#: lib/admin/dashboard.php:119
+msgid "logo"
+msgstr ""
+
+#: lib/admin/dashboard.php:131
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: lib/admin/dashboard.php:135
+msgid "Header & Header Layouts"
+msgstr ""
+
+#: lib/admin/dashboard.php:139
+msgid "Posts & Pages Options"
+msgstr ""
+
+#: lib/admin/dashboard.php:143
+msgid "Footer"
+msgstr ""
+
+#: lib/admin/dashboard.php:147
+msgid "Colors"
+msgstr ""
+
+#: lib/admin/dashboard.php:151
+msgid "Menu Options"
+msgstr ""
+
+#: lib/admin/dashboard.php:155
+msgid "Homepage Settings"
+msgstr ""
+
+#: lib/admin/dashboard.php:163
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: lib/admin/dashboard.php:183
+msgid "Knowledge Base"
+msgstr ""
+
+#: lib/admin/dashboard.php:185
+msgid ""
+"Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr ""
+
+#: lib/admin/dashboard.php:186
+msgid "Visit Knowledge Base"
+msgstr ""
+
+#: lib/admin/dashboard.php:199
+msgid "Admire ready to import sites"
+msgstr ""
+
+#: lib/admin/dashboard.php:204
+msgid ""
+"Import your favorite site with one click and start your project in style!"
+msgstr ""
+
+#: lib/admin/dashboard.php:207
+msgid "See Library"
+msgstr ""
+
+#: lib/admin/dashboard.php:259 lib/demo/demos.php:351
+msgid "Activate"
+msgstr ""
+
+#: lib/admin/dashboard.php:263 lib/demo/demos.php:357
+msgid "Install Now"
+msgstr ""
+
+#: lib/admin/dashboard.php:291
+msgid "Details"
+msgstr ""
+
+#: lib/admin/dashboard.php:301
+msgid "Recommend Plugins"
+msgstr ""
+
+#: lib/demo/admire-demos.php:107 lib/demo/admire-demos.php:116
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:30
+#: lib/demo/classes/class-install-demos.php:34
+#: lib/demo/classes/class-install-demos.php:54
+msgid "Install Demos"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:67
+msgid "All"
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:74
+msgid "Search demos..."
+msgstr ""
+
+#: lib/demo/classes/class-install-demos.php:104
+msgid "Live Preview"
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:42
+#: lib/demo/classes/importers/class-parsers.php:72
+#: lib/demo/classes/importers/class-parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: lib/demo/classes/importers/class-parsers.php:84
+#: lib/demo/classes/importers/class-parsers.php:89
+#: lib/demo/classes/importers/class-parsers.php:306
+#: lib/demo/classes/importers/class-parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: lib/demo/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:132
+#: lib/demo/classes/importers/class-wordpress-importer.php:141
+#: lib/demo/classes/importers/class-wordpress-importer.php:192
+#: lib/demo/classes/importers/class-wordpress-importer.php:196
+#: lib/demo/classes/importers/class-wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:516
+#: lib/demo/classes/importers/class-wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:954
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:967
+msgid "Invalid file type"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1011
+msgid "Remote server did not respond"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1017
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1024
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1029
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1035
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1134
+msgid "Import WordPress"
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1141
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1156
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: lib/demo/classes/importers/class-wordpress-importer.php:1157
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: lib/demo/demos.php:94
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: lib/demo/demos.php:95
+msgid "Activating"
+msgstr ""
+
+#: lib/demo/demos.php:96
+msgid "Active"
+msgstr ""
+
+#: lib/demo/demos.php:231
+#, php-format
+msgid "Import the %1$s"
+msgstr ""
+
+#: lib/demo/demos.php:238
+#, php-format
+msgid ""
+"Importing demo data allow you to quickly edit everything instead of creating "
+"content from scratch. It is recommended uploading sample data on a fresh "
+"WordPress install to prevent conflicts with your current content. You can "
+"use this plugin to reset your site if needed: %1$sWordpress Database Reset"
+"%2$s."
+msgstr ""
+
+#: lib/demo/demos.php:245
+msgid "Required Plugins"
+msgstr ""
+
+#: lib/demo/demos.php:246
+msgid ""
+"For your site to look exactly like this demo, the plugins below need to be "
+"activated."
+msgstr ""
+
+#: lib/demo/demos.php:253
+msgid "Recommended Plugins"
+msgstr ""
+
+#: lib/demo/demos.php:254
+msgid ""
+"These plugins are not required for the demo import. However, if you do not "
+"install them, some demo features will not be included."
+msgstr ""
+
+#: lib/demo/demos.php:265
+msgid "Go to the next step"
+msgstr ""
+
+#: lib/demo/demos.php:278
+msgid "Select what you want to import:"
+msgstr ""
+
+#: lib/demo/demos.php:284
+msgid "Reset theme options"
+msgstr ""
+
+#: lib/demo/demos.php:284
+msgid "Customizer options"
+msgstr ""
+
+#: lib/demo/demos.php:290
+msgid "Import XML Data"
+msgstr ""
+
+#: lib/demo/demos.php:290
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: lib/demo/demos.php:297
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: lib/demo/demos.php:304
+msgid "Import Widgets"
+msgstr ""
+
+#: lib/demo/demos.php:312
+msgid "Install this demo"
+msgstr ""
+
+#: lib/demo/demos.php:317
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: lib/demo/demos.php:323
+msgid "Demo Imported!"
+msgstr ""
+
+#: lib/demo/demos.php:324
+msgid "See the result"
+msgstr ""
+
+#: lib/demo/demos.php:362
+msgid "Activated"
+msgstr ""
+
+#: lib/demo/demos.php:389
+msgid "No plugin specified"
+msgstr ""
+
+#: lib/demo/demos.php:409
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: lib/demo/demos.php:428
+msgid "Reseting Theme Options"
+msgstr ""
+
+#: lib/demo/demos.php:434
+msgid "Importing XML Data"
+msgstr ""
+
+#: lib/demo/demos.php:440
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: lib/demo/demos.php:446
+msgid "Importing Widgets"
+msgstr ""
+
+#: lib/demo/demos.php:763
+msgid ""
+"Can not retrieve sample data xml file. Website may be down at the momment "
+"please try again later. If you still have issues contact the developer for "
+"assistance."
+msgstr ""
+
+#: lib/demo/demos.php:778
+msgid ""
+"The xml import file could not be accessed. Please try again or contact the "
+"theme developer."
+msgstr ""
+
+#: lib/demo/demos.php:814
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: lib/demo/demos.php:824
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: lib/demo/demos.php:835
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:12 lib/shortcodes/shortcodes.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:14
+msgid "Add Testimonials"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:15
+msgid "Add New Testimonial"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:16
+msgid "Edit Testimonial"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:17
+msgid "New Testimonial"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:18
+msgid "All Testimonials"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:19
+msgid "View Testimonial"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:20
+msgid "Search Testimonial"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:21
+msgid "No Testimonial found"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:22
+msgid "No Testimonial found in the Trash"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:86 lib/shortcodes/shortcodes.php:87
+msgid "Our Team"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:88 lib/shortcodes/shortcodes.php:262
+#: lib/shortcodes/shortcodes.php:344
+msgid "Add New"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:89
+msgid "Add New Team Member"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:90
+msgid "Edit Team Member"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:91
+msgid "New Member"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:92
+msgid "All Members"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:93
+msgid "View Members"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:94
+msgid "Search Team Members"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:95
+msgid "No Team members found"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:96
+msgid "No Team members found in the Trash"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:260 lib/shortcodes/shortcodes.php:261
+msgid "Photo Gallery"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:263
+msgid "Add New Image / Video"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:264
+msgid "Edit Image/Video"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:265
+msgid "New Image/Video"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:266
+msgid "All Images/Videos"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:267
+msgid "View Image/Video"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:268
+msgid "Search Images/Videos"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:269
+msgid "No images/videos found"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:270
+msgid "No images/videos found in the Trash"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:342 lib/shortcodes/shortcodes.php:343
+msgid "Our Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:345
+msgid "Add New Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:346
+msgid "Edit Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:347
+msgid "New Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:348
+msgid "All Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:349
+msgid "View Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:350
+msgid "Search Services"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:351
+msgid "No Services found"
+msgstr ""
+
+#: lib/shortcodes/shortcodes.php:352
+msgid "No Services found in the Trash"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Admire Extra"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Admire extra is a elementor as well as Gutenberg template library where you "
+"can choose from available designs and use them with any WordPress theme from "
+"the repository or elsewhere. These templates are fully edtibale using "
+"Elementor or Gutenberg block editor. They are full fledged wesbites where "
+"you get all pages including homepage and inner pages. All of the templates "
+"are being imported from our test server at SKT Themes. You can create a wide "
+"range of business websites like hotels, lodging, spa, salon, construction, "
+"personal, blog, fitness, medical, health, charity, pet, maintenance services "
+"etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org/"
+msgstr ""

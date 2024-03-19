@@ -1,0 +1,480 @@
+/* Extreme Sports */
+.extreme-sports-header-section-menu ul {list-style: none;text-align: center; margin:0; padding:0;}
+.extreme-sports-header-section-menu ul li {display: inline-block !important; padding: 0 20px !important;}
+.extreme-sports-header-section-menu ul li a {color:#fff;text-decoration: none !important;font-size: 24px; font-weight: 300; padding-bottom:10px !important; border-bottom: 1px solid transparent;}
+.extreme-sports-header-section-menu .current_page_item a:active {color:#ff5301;border-bottom: 1px solid #ff5301;
+padding-bottom:10px !important; transition: 0.3s;}
+.extreme-sports-header-section-menu ul li a:hover, .extreme-sports-header-section-menu ul li.current_page_item a, .extreme-sports-header-section-menu ul li.current-menu-item a{color:#ff5301;border-bottom: 1px solid #ff5301; padding-bottom:10px !important; transition: 0.3s;}
+.extreme-sports-header-button .elementor-button-link{padding:15px 40px !important;}
+.extreme-sports-header-button a{text-decoration: none;}
+.extreme-sports-camping-section:hover{background-color:#ff5301;border-radius:8px;}        
+.extreme-sports-camping-section {box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);}
+.extreme-sports-camping-section .elementor-widget-wrap:hover{filter: brightness(0) invert(1);}
+.extreme-sports-camping-section{background-color:#fff;border-radius:8px; margin: 15px;}
+.extreme-sports-activites-section img:hover {opacity: 0.3; position: relative;}
+.extreme-sports-activites-section h2:hover {transition: all .3s ease-in-out;bottom: 50% !important;}
+.extreme-sports-reasons-to-join-section {background-color:#fff;border-radius:50%; margin: 15px;width: 180px !important;height: 180px;}
+.extreme-sports-reasons-to-join-section {box-shadow: 0px 6px 42px -25px rgb(0 0 0 / 50%);}
+.extreme-sports-reasons-to-join-section .elementor-widget-container:hover{filter: brightness(0) invert(1);}
+.extreme-sports-reasons-to-join-section:hover{background-color:#ff5301;border-radius:50%;}
+.extreme-sports-reasons-to-join-section img:hover{filter: brightness(0) invert(1);}
+.extreme-sports-reasons-to-join-section img {margin: 45px;}
+.extreme-sports-footer-section a:hover {text-decoration: none !important;} 
+.extreme-sports-activities-mountain-biking .elementor-widget-container .elementor-heading-title a:hover {text-decoration: none !important;}
+.extreme-sports-activities-mountain-biking .elementor-widget-container .elementor-heading-title a {    font-weight: 400 !important;}
+.extreme-sports-activities-mountain-biking:hover {top:60px;}
+.extreme-sports-video-section .elementor-custom-embed-play {background: #ff5301;border-radius: 50%;}
+.extreme-sports-video-section .elementor-widget-container img {width:100% !important; max-width:inherit !important;}
+.extreme-sports-about-page-video .elementor-custom-embed-play {background: #ff5301;border-radius: 50%;    top: 70%;left:0% !important;}
+.extreme-sports-about-page-video .elementor-widget-container {overflow: visible !important;}
+.extreme-imageover{transition: background-color 0.5s ease;}
+.extreme-imageover .elementor-widget-image{margin:0 !important;}
+.extreme-imageover .elementor-widget-heading{height: 100%;position: absolute;transition: background-color 0.5s ease;}
+.extreme-imageover .elementor-heading-title{position: absolute;width: 100%;bottom: 13%;transition: background-color 0.5s ease;}
+.extreme-imageover:hover .elementor-widget-heading{background: rgb(241 113 4 / 85%) !important;cursor: pointer;border-radius: 12px;}
+.extreme-imageover:hover .elementor-heading-title{bottom: 40%  !important;}
+.extreme-sports-club-activities .elementor-widget-image a {display:unset !important;}
+.extreme-sports-club-activities .elementor-widget-image a img {width:100% !important; max-width:inherit !important;}
+.extreme-imageover .elementor-heading-title a {text-decoration: none !important;font-weight: 400 !important;}
+.extreme-sports-video-link a {text-decoration: none !important;font-weight: 400 !important;}
+.extreme-home-active li:first-child a span{color: #ff5301 !important;}
+.extreme-about-active li:nth-child(2) a span{color: #ff5301 !important;}
+.extreme-activities-active li:nth-child(3) a span{color: #ff5301 !important;}
+.extreme-contact-active li:nth-child(4) a span{color: #ff5301 !important;}
+
+
+@media (max-width: 768px){
+    .extreme-sports-header-section-menu ul li a {font-size: 20px;}
+	.extreme-sports-header-section-menu ul li {padding:0 18px !important;}
+}
+@media (max-width: 375px){
+    .extreme-sports-header-section-menu ul li a {font-size: 20px;}
+	.extreme-sports-header-section-menu ul li {padding:0 10px !important;}
+	.extreme-sports-header-section-menu ul {margin-left: 0 !important; text-align: left;}
+	.extreme-sports-about-page-video .elementor-custom-embed-play {background: #ff5301;border-radius: 50%;    top: 50%;left:50% !important;}
+	
+}
+/* Extreme Sports */
+
+/* Specialist */
+.specialist-top-logo-section {width: 100% !important;max-width: 1130px;margin: 0 auto;}
+.specialist-top-logo-section a { text-decoration:none;}
+.specialist-about-left2img {position: absolute !important; right: -27px;top: 180px;}
+.specialist-all-link a {text-decoration:none;}
+.specialist-section-3-right .elementor-image-box-title { padding:0 70px;}
+.specialist-section-3-business { position:absolute !important; left:145px; top:65px; z-index:3;}
+.specialist-section-3-marketing { position:absolute !important; right:-70px; top:0px; z-index:4;}
+.specialist-section-3-global { position: absolute !important; left: 0;top: 260px; z-index:2;}
+.specialist-section-3-risk {position: absolute !important; right: -70px;top: 320px;z-index: 1;}
+.specialist-section-6-right-box1 .elementor-image-box-img {background-color: transparent;background-image: linear-gradient(140deg, #2278d6 0%, #279fe4 100%);height: 150px;width: 210px !important;border-radius: 100%; position:relative;}
+.specialist-section-6-right-box1 .elementor-image-box-img img {position:absolute !important; top:50%; left:50%; transform: translate(-50%,-50%);}
+.specialist-section-6-right-box2 .elementor-image-box-img {background-color: transparent;background-image: linear-gradient(140deg, #6330EF 0%, #9437FC 100%);height: 150px;width: 210px !important;border-radius: 100%; position:relative;}
+.specialist-section-6-right-box2 .elementor-image-box-img img {position:absolute !important; top:50%; left:50%; transform: translate(-50%,-50%);}
+.specialist-section-6-right-box1 { position:absolute !important; left:-50px; top:15px;}
+.specialist-section-6-right-box2 { position:absolute !important; left:35px; top:195px;}
+.specialist-progress-bar .elementor-progress-wrapper {margin-top: 15px;}
+.specialist-progress-bar .elementor-progress-percentage {position: absolute !important; top: -27px;left: auto;right: 0;}
+.specialist-progress-bar .elementor-progress-bar {background-color: transparent !important;background-image: linear-gradient(140deg, #6330EF 0%, #9437FC 100%) !important;}
+.specialist-video-section .elementor-custom-embed-play {background-color: transparent;background-image: linear-gradient(140deg, #2278d6 0%, #279fe4 100%);top: 80%;left: 72% !important;padding: 38px 57px;    border-radius: 100%;}
+.specialist-video-section .eicon-play:before {content: "";background: url(https://admiretheme.com/demos/specialist-demo/images/video-play-icon.png);width: 20px;height: 33px;display: inline-block;}
+.specialist-video-section i {margin-top: -44px !important;}
+.specialist-footer-form input[type="text"] {background: #fff !important;padding: 35px !important;border-radius: 10px !important;padding-right: 254px !important;width: 100% !important;max-width: inherit;height: inherit !important;}
+.specialist-footer-form input[type="submit"] {position: absolute !important;right: 15px;top: 12px;text-transform: uppercase; font-size: 17px;font-weight: 600;background: #ffcd00;color: #282828;border-radius: 8px;padding: 12px 40px;height: inherit;line-height: 42px; border:none;}
+.specialist-footer-form input[type="submit"]:hover {background: #9437fd !important;color:#ffffff !important;}
+.specialist-top-menu-link.specialist-home-active li:first-child a span {color:#fac223 !important;}
+.specialist-top-menu-link.specialist-about-active li:nth-child(2) a span {color:#fac223 !important;}
+.specialist-top-menu-link.specialist-services-active li:nth-child(3) a span {color:#fac223 !important;}
+.specialist-top-menu-link.specialist-contact-active li:nth-child(4) a span {color:#fac223 !important;}
+.specialist-services-imgboxaddress .elementor-image-box-img {background: #fff;box-shadow: 0px 0px 40px 0px rgb(0 0 0 / 9%);height: 65px;width: 95px !important;border-radius: 15px; position:relative;}
+.specialist-services-imgboxaddress .elementor-image-box-img img {position: absolute !important;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.specialist-services-imgboxphone .elementor-image-box-img {background: #fff;box-shadow: 0px 0px 40px 0px rgb(0 0 0 / 9%);height: 65px;width: 95px !important;border-radius: 15px;position:relative;}
+.specialist-services-imgboxphone .elementor-image-box-img img {position: absolute !important;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.specialist-services-imgboxemail .elementor-image-box-img {background: #fff;box-shadow: 0px 0px 40px 0px rgb(0 0 0 / 9%);height: 65px;width: 100px !important;border-radius: 15px;position:relative;}
+.specialist-services-imgboxemail .elementor-image-box-img img {position: absolute !important;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.specialist-footer-address .elementor-icon-list-text span { margin-left: 30px;}
+
+@media (max-width: 320px) {
+.specialist-footer-form input[type="submit"] {position: relative; right:0 !important; top:0; margin-top:10px; width:100%;}
+.specialist-footer-form input[type="text"] { padding-bottom:25px !important; padding-top:25px !important;}
+.specialist-footer-form input::placeholder {font-size:15px;}
+}
+
+@media (max-width: 479px) {
+.specialist-about-left2img {position: absolute !important; top: 105px;left: 120px;width: 60% !important;}
+.specialist-section-3-business { position:relative; left:0; top:0;}
+.specialist-section-3-marketing { position:relative; right:0; top:0;}
+.specialist-section-3-global  { position:relative; left:0; top:0;}
+.specialist-section-3-risk  { position:relative; right:0; top:0;}
+.specialist-section-6-right-box1 { position:relative; left:0; top:0;}
+.specialist-section-6-right-box2 { position:relative; left:0; top:0;}
+.specialist-section-6-right-box1 .elementor-image-box-img img {width: 50% !important;}
+.specialist-section-6-right-box1 .elementor-image-box-img {height: 125px;width: 125px !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img img {width: 50% !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img {height: 125px;width: 125px !important;}
+.specialist-section-6-right-box1 .elementor-image-box-title { margin-top:15px;}
+.specialist-section-6-right-box2 .elementor-image-box-title { margin-top:15px;}
+.specialist-video-section .elementor-custom-embed-play {padding: 25px 44px;}
+.specialist-footer-form input[type="submit"] {font-size: 15px;padding: 12px 33px;right: 8px;}
+.specialist-footer-form input[type="text"] {padding-left: 20px !important;padding-right: 50px !important;}
+.specialist-footer-form input::placeholder {font-size:15px;}
+.specialist-services-tittle {order:1;}
+.specialist-services-content {order:2;}
+.specialist-services-img {order:3;}
+.specialist-about-img1 { width:60% !important;}
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+.specialist-services-tittle {order:1;}
+.specialist-services-content {order:2;}
+.specialist-services-img {order:3;}
+.specialist-about-left2img {position: absolute !important;top: 105px;left: 180px;width: 60% !important;}
+.specialist-about-img1 { width:60% !important;}
+.specialist-section-3-business { position:relative; left:0; top:0; width:47% !important;}
+.specialist-section-3-marketing { position:relative; right:0; top:0;width:47% !important;}
+.specialist-section-3-global  { position:relative; left:0; top:0;width:47% !important;}
+.specialist-section-3-risk  { position:relative; right:0; top:0;width:47% !important;}
+.specialist-section-6-right-box1 { position:relative; left:0; top:0;}
+.specialist-section-6-right-box2 { position:relative; left:0; top:0;}
+.specialist-section-6-right-box1 .elementor-image-box-img img {width: 50% !important;}
+.specialist-section-6-right-box1 .elementor-image-box-img {height: 150px;width:150px !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img img {width: 50% !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img {height: 150px;width:150px !important;}
+.specialist-section-6-right-box1 .elementor-image-box-title { margin-top:15px;}
+.specialist-section-6-right-box2 .elementor-image-box-title { margin-top:15px;}
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+.specialist-about-left2img img {width:80%;}
+.specialist-about-left2img {right: -5px;top: 197px;}
+.specialist-about-img1 img {width:85% !important;}
+.specialist-section-3-business { position:relative; left:0; top:0;}
+.specialist-section-3-marketing { position:relative; right:0; top:0;}
+.specialist-section-3-global  { position:relative; left:0; top:0;}
+.specialist-section-3-risk  { position:relative; right:0; top:0;}
+.specialist-section-3-right .elementor-image-box-title { padding:0 10px;}
+.specialist-footer-form input[type="submit"] {right: 7px;top: 15px;font-size: 15px;padding: 10px 35px;}
+.specialist-footer-form input[type="text"] {padding-right: 50px !important;}
+.specialist-section-6-right-box1 {left:-15px;}
+.specialist-section-6-right-box2 {left:-15px;}
+.specialist-section-6-right-box1 .elementor-image-box-img {height: 110px; width:160px !important;}
+.specialist-section-6-right-box1 .elementor-image-box-img img {width:50% !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img {height: 110px;width:160px !important;}
+.specialist-section-6-right-box2 .elementor-image-box-img img {width:50% !important;}
+.specialist-video-section .elementor-custom-embed-play {padding: 27px 45px;}
+.specialist-footer-form input::placeholder {font-size:15px;}
+.specialist-services-provide .elementor-image-box-title {padding-right: 25px;}
+.specialist-footer-address .elementor-icon-list-text span { margin-left: 0;}
+}
+ 
+@media (min-width: 1024px) and (max-width: 1160px) {
+.specialist-section-2 {padding: 50px 0px 80px 0px !important;}
+.specialist-section-3 {padding: 50px 0px 190px 0px !important;}
+.specialist-section-3-business {left: 90px;}
+.specialist-section-3-marketing {right: -18px;}
+.specialist-section-3-global {top: 235px;}
+.specialist-section-3-risk {right: -18px;top: 282px;}
+.specialist-section-6 {padding: 70px 0px 140px 0px !important;}
+.specialist-video-section .elementor-custom-embed-play {padding: 30px 48px;}
+.specialist-connected-blow {margin-top:40px !important;}
+.specialist-services-imgboxaddress { margin-bottom:40px !important;padding-top: 30px;}
+.specialist-services-imgboxphone { margin-bottom:40px !important;}
+.specialist-services-imgboxemail { margin-bottom:30px !important;padding-bottom: 10px;}
+.specialist-about-left2img {right:0;}
+.specialist-about-left2img img {width:70% !important;}
+.specialist-section-6-right-box2 {left: -10px;top: 180px;}
+.specialist-footer-column1 { width:25% !important;}
+.specialist-footer-column2 { width:25% !important;}
+.specialist-footer-column3 { width:25% !important;}
+.specialist-footer-column4 { width:25% !important;}
+.specialist-footer-address .elementor-icon-list-text span { margin-left: 0;}
+}
+/* Specialist */
+
+/*Woman Css*/
+.woman-menu-iteam a:hover { text-decoration:none;}
+.woman-banner-button a { text-decoration:none;}
+.woman-footer-links a { text-decoration:none;}
+.woman-footer-address .elementor-icon-list-text span { margin-left:30px;}
+.skt-woman-value-box-img {width:130px !important; height:130px; background:#fff; border-radius:100%;  align-items:center !important; display:flex !important; justify-content:center !important; margin-right:50px; margin-top:13px;}
+.skt-woman-value-box-img:before{ width:155px; height:155px; background:rgba(255, 255, 255, 0.15); content:''; position:absolute; border-radius:100px;}
+.skt-woman-book-btn {width:200px !important; height:200px; background:#fca395; border-radius: 100%; align-items:center !important; display:flex !important; justify-content:center !important; position:absolute !important; right:0px; top:-280px;}
+.skt-woman-book-btn::before{ background:none; border:solid 15px rgba(255, 255, 255, 0.25);}
+.skt-woman-book-btn::before {width:235px; height:235px; background: rgba(255, 255, 255, 0.25); content: ''; position:absolute; border-radius: 100%; z-index: -1;}
+.skt-woman-section8-right {position:relative; margin-top:-420px; margin-bottom:70px;}
+.skt-woman-work-box .elementor-image-box-img {width:180px !important; height:180px; background: #fff; border-radius:100%; align-items:center !important; display:flex !important; justify-content:center !important; margin:0 auto !important; margin-bottom:35px !important;}
+.skt-woman-work-box-number {position:absolute !important; z-index:99; top:105px;}
+.skt-woman-work-box-number .elementor-widget-container {width:70px; height:70px; padding:25px 0px !important; text-align:center;}
+.skt-woman-section11::before {content:''; width:100%; height:152px; position: absolute; bottom: 0px; background: #f6f5f2; z-index:4;}
+.skt-woman-section7-left img {width:100% !important;}
+.skt-woman-therapy-box-img {width:163px !important; height:163px; border: solid 13px #ffffff; overflow:hidden; border-radius:100%; margin-right:30px; margin-top:10px;}
+.skt-woman-contact-info .elementor-image-box-img {background: #fca395;border-radius: 15px;padding: 25px;}
+.skt-woman-contact-info .elementor-image-box-img img {vertical-align: middle;}
+.skt-woman-menu-active-home ul li:nth-child(1) a span {color:#fca395 !important;}
+.skt-woman-menu-active-about ul li:nth-child(2) a span {color:#fca395 !important;}
+.skt-woman-menu-active-service ul li:nth-child(3) a span {color:#fca395 !important;}
+.skt-womanmenu-active-contacts ul li:nth-child(4) a span {color:#fca395 !important;}
+
+@media screen and (max-width: 29.938em) {
+.skt-woman-section1 {background-image:linear-gradient(180deg, #FCA395 66.5%, #FFF 13%) !important;}
+.skt-woman-value-box-img{ margin:0 auto; margin-bottom:20px;}
+.skt-woman-book-btn{margin: 60px auto !important; position:relative !important; top:0px;}
+.skt-woman-book-btn::before{ background:none; border:solid 15px rgba(255, 255, 255, 0.25);}
+.skt-woman-therapy-box-img{ margin:0 auto; margin-bottom:20px;}
+.skt-woman-section8-right{margin-top:0px;}
+.skt-woman-work-box-number{ left:50px;}
+.skt-woman-section11::before { display:none;}
+.skt-woman-contact-info .elementor-image-box-content { margin-top:20px;}
+.woman-footer-address .elementor-icon-list-text span { margin-left:15px;}
+}
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.skt-woman-section1 {background-image:linear-gradient(180deg, #FCA395 74%, #FFF 13%) !important;}
+.skt-woman-value-box-img{ margin:0 auto; margin-bottom:20px;}
+.skt-woman-book-btn{margin: 60px auto !important; position:relative !important; top:0px;}
+.skt-woman-book-btn::before{ background:none; border:solid 15px rgba(255, 255, 255, 0.25);}
+.skt-woman-therapy-box-img{ margin:0 auto; margin-bottom:20px;}
+.skt-woman-section8-right{margin-top:0px;}
+.skt-woman-work-box-number{ left:50px;}
+.skt-woman-section11::before { display:none;}
+.skt-woman-section5-bottom-img {width:50% !important; margin:0 auto;}
+.skt-woman-section9-box {width:50% !important; padding:15px;}
+.skt-woman-contact-info .elementor-image-box-img { padding:20px;}
+}
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+.skt-woman-value-box-img{margin-right:20px; width:110px !important; height:110px;}
+.skt-woman-value-box-img::before {width:135px; height:135px;}
+.skt-woman-book-btn::before {width:200px; height:200px;}
+.skt-woman-book-btn {width:170px !important; height:170px; top:-180px; right:10px;}
+.skt-woman-therapy-box-img {width:130px !important; height:130px; border: solid 10px #f3f4f5; margin-right:5px;}
+.skt-woman-section8-right {margin-top:-200px; margin-bottom:0px;}
+.skt-woman-work-box .elementor-image-box-img {width:150px !important; height:150px;}
+.skt-woman-work-box .elementor-image-box-img img{ width:40%;}
+.skt-woman-work-box-number .elementor-widget-container {width:60px; height:60px; padding:20px 0px !important;}
+.skt-woman-section11-left{width:55% !important; position:absolute !important; left:0px; bottom:133px;}
+.skt-woman-section11-right{width:100% !important; padding-left:50%;}
+}
+@media screen and (max-width:72.438em) and (min-width:63.250em) {
+.skt-woman-book-btn {right:10px; top:-200px;}
+.skt-woman-value-box-content {width:62% !important;}
+.skt-woman-therapy-box-img{margin-right:5px;}
+.skt-woman-therapy-box-content {width: 66% !important;}
+.skt-woman-section4-left {width:33.33% !important;}
+.skt-woman-section4-right{width:100% !important;} 
+.skt-woman-section4-right-side {width:68% !important;}
+.skt-woman-section4-left {width:30% !important;}
+.skt-woman-section4-left .elementor-widget-heading{ text-align:left !important;}
+.skt-woman-section8-right {margin-top:-320px;}
+.skt-woman-section8-left .elementor-widget-heading{ text-align:left !important;}
+}
+@media screen and (max-width:1800px) and (min-width:1025px) {
+.skt-woman-section7-left {height:650px;}
+}
+@media screen and (max-width:812px) and (min-width:320px) {
+.skt-woman-contact-info .elementor-image-box-img { padding:16px;}
+}
+@media(min-width: 1400px) and (max-width: 4000px){
+.skt-woman-section7-left {height:650px;}
+}
+/*Woman Css*/
+
+/*Taxi CSS*/
+.taxi-top-menu a:hover { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;}
+.taxi-top-menu a {padding: 40px 25px 25px;}
+.taxi-banner-button a:hover { text-decoration:none;}
+.taxi-app-button a { text-decoration:none; font-weight:500;}
+.taxi-app-button .elementor-image-box-description { margin-top:-5px !important;}
+.taxi-choice-section-phone .elementor-image-box-img img {background: #111111;height: 70px;width: 70px;padding: 18px;}
+.taxi-video-section .elementor-custom-embed-play:after {content: '';position: absolute;left: 50%;top: 50%;    z-index: 999;width: 55px;height: 55px;transform: translate(-50%,-50%); border-radius: 100%; background: #ffc000 url(https://admiretheme.com/demos/taxi-demo/images/play-button-icon.png) center no-repeat;}
+.taxi-video-section .eicon-play:before { display:none;}
+.taxi-testimonials-right-section {width:400px !important; float:left; margin-left:0px !important;}
+.taxi-testimonials-left-box .elementor-container {float:right !important; width:690px;}
+.taxi-choose-section .elementor-icon-list-text span { margin-left:30px;}
+.taxi-mobile-img { margin-left:-57px;}
+.taxi-testimonials-section::after {content:""; background:url(https://admiretheme.com/demos/taxi-demo/images/testimonials-quotes-img.png) center no-repeat;; position:absolute; bottom:-85px; right:22px;width: 88px;height: 80px;}
+.taxi-newsletter-right input[type="text"] {background: #fff !important;padding: 35px !important;border-radius: 10px !important;padding-right: 254px !important;width: 100% !important;max-width: 550px;height: inherit !important;}
+.taxi-newsletter-right input[type="submit"] {position: absolute;right: 35px; top: 12px;text-transform: uppercase;font-size: 17px;font-weight: 600;background: #ffcd00;color: #282828;border-radius: 8px;padding: 12px 40px;height: inherit; line-height:42px; border:none;}
+.taxi-newsletter-right input[type="submit"]:hover {background: #282828;color: #ffffff;}
+::placeholder {color:#1e1e1e !important; opacity:1 !important; font-size:18px;}
+.taxi-additional-text .elementor-icon-list-text span { position: absolute;right: 30px;}
+.taxi-menu-active-home ul li:nth-child(1) { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;color:#282828 !important;}
+.taxi-menu-active-about ul li:nth-child(2) { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;color:#282828 !important;}
+.taxi-menu-active-service ul li:nth-child(3) { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;color:#282828 !important;}
+.taxi-menu-active-reviews ul li:nth-child(4) { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;color:#282828 !important;}
+.taxi-menu-active-contacts ul li:nth-child(5) { text-decoration:none;background-color:#f5bc09; border-radius:0px 0px 8px 8px;color:#282828 !important;}
+.taxi-fourbox h3{margin:0 !important;}
+.taxi-choice-section-phone h3{margin:0px;}
+
+.taxi-menu-active-home ul li:nth-child(1) a span {color:#000000 !important;}
+.taxi-menu-active-about ul li:nth-child(2) a span {color:#000000 !important;}
+.taxi-menu-active-service ul li:nth-child(3) a span {color:#000000 !important;}
+.taxi-menu-active-reviews ul li:nth-child(4) a span {color:#000000 !important;}
+.taxi-menu-active-contacts ul li:nth-child(5) a span {color:#000000 !important;}
+.taxi-footer-address .elementor-icon-list-text span {margin-left:30px;}
+
+@media (max-width: 479px) {
+.taxi-testimonials-left-box .elementor-container { width:auto;}
+.taxi-choice-section-phone .elementor-image-box-img img {height: 60px;width: 60px;padding: 15px;}
+.taxi-top-menu a {padding: 10px 15px 10px;}
+.taxi-top-menu a:hover { border-radius:8px;}
+.taxi-mobile-img { margin-left:0;}
+.taxi-testimonials-section::after { bottom:-48px;right: 5px;}
+.taxi-newsletter-right .wpcf7-form input[type="email"] {width: 100% !important; padding-right: 18px !important;padding-left: 15px !important;}
+.taxi-newsletter-right .wpcf7-submit {right: 12px;top: 36px;padding: 15px 25px;font-size: 14px;}
+.taxi-apple-button .elementor-image-box-img {display: inline-block;width: 100%;max-width: 70px;}
+.taxi-apple-button .elementor-image-box-content {display: inline-block;width: 100%;max-width: 150px;}
+.taxi-google-button .elementor-image-box-img {display: inline-block;width: 100%;max-width: 70px;}
+.taxi-google-button .elementor-image-box-content {display: inline-block;width: 100%;max-width: 150px;}
+.taxi-additional-text .elementor-icon-list-text span {display:block;position: relative;right: 0;}
+.taxi-newsletter-right input[type="text"] {padding-left: 20px !important;padding-right: 50px !important;}
+.taxi-newsletter-right input[type="submit"] {font-size: 15px;padding: 12px 33px;right: 8px;}
+.taxi-newsletter-right input::placeholder {font-size:15px;}
+.taxi-menu-active-home ul li:nth-child(1) {border-radius: 8px;}
+.taxi-menu-active-about ul li:nth-child(2) {border-radius: 8px;}
+.taxi-menu-active-service ul li:nth-child(3) {border-radius: 8px;}
+.taxi-menu-active-reviews ul li:nth-child(4) {border-radius: 8px;}
+.taxi-menu-active-contacts ul li:nth-child(5) {border-radius: 8px;}
+.taxi-footer-address .elementor-icon-list-text span {margin-left:0px;}
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.taxi-testimonials-left-box .elementor-container { width:auto;}
+.taxi-top-menu a {padding: 10px 15px 10px;}
+.taxi-top-menu a:hover { border-radius:8px;}
+.taxi-mobile-img { margin-left:0;}
+.taxi-testimonials-right-section { width:100% !important;}
+.taxi-video-section .elementor-custom-embed-play::after { width:80px; height:80px;}
+.taxi-apple-button .elementor-image-box-img {display: inline-block;width: 100%;max-width: 70px;}
+.taxi-apple-button .elementor-image-box-content {display: inline-block;width: 100%;max-width: 150px;}
+.taxi-google-button .elementor-image-box-img {display: inline-block;width: 100%;max-width: 70px;}
+.taxi-google-button .elementor-image-box-content {display: inline-block;width: 100%;max-width: 150px;}
+.taxi-newsletter-right input[type="text"] {width:100%;max-width:unset;}
+.taxi-menu-active-home ul li:nth-child(1) {border-radius: 8px;}
+.taxi-menu-active-about ul li:nth-child(2) {border-radius: 8px;}
+.taxi-menu-active-service ul li:nth-child(3) {border-radius: 8px;}
+.taxi-menu-active-reviews ul li:nth-child(4) {border-radius: 8px;}
+.taxi-menu-active-contacts ul li:nth-child(5) {border-radius: 8px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.taxi-top-menu a {padding:40px 18px 25px;}
+.taxi-choice-section-phone .elementor-image-box-img img {height: 60px;width: 60px;padding: 13px;}
+.taxi-mobile-img { margin-left:0;}
+.taxi-testimonials-left-box .elementor-container { width:auto;}
+.taxi-testimonials-section::after { bottom:0;}
+.taxi-newsletter-right .wpcf7-form input[type="email"] { width:100% !important;padding-right: 18px !important;}
+.taxi-additional-text .elementor-icon-list-text span { right:12px;}
+.taxi-newsletter-right input[type="text"] {padding-right:50px !important;}
+.taxi-newsletter-right input[type="submit"] {right: 7px;top: 15px;font-size: 15px;padding: 10px 35px;}
+.taxi-newsletter-right input::placeholder {font-size:15px;}
+}
+/*Taxi CSS*/
+
+/* Wedding Cards */
+.wedding-cards-request-quote a:hover{text-decoration: none;}
+.wedding-cards-request-quote .elementor-button-link{padding:19px 30px !important;}
+.wedding-cards-header-button .elementor-button-link{padding:20px 43px !important;} 
+.wedding-cards-header-button a:hover {text-decoration: none;}
+.wedding-cards-navigation ul li a:hover {text-decoration: none;}
+.wedding-cards-example-img {background-image: url("https://admiretheme.com/demos/weddingcards-demo/images/example-sample-bg.png");background-size: contain;background-position: center center;background-repeat: no-repeat;}
+.wedding-cards-build-number {background-color: #fff;border-radius: 100%;width: 160px !important;height: 160px;margin: 0 auto;box-shadow: 0 0px 40px 1px rgb(0 0 0 / 20%);z-index: 3;}
+.wedding-cards-build-number .elementor-heading-title {margin-top:50px !important;}
+.wedding-cards-build-number ::before {content:url(https://admiretheme.com/demos/weddingcards-demo/images/arrow-left.png);position: absolute;left: -18px;top: 39%;font-size: 22px;}
+.wedding-cards-pick-a-template ::after {content: "";position: absolute;right: 60px;top: 128px;background: rgb(0,0,0,10%);width: 2px;height: 53px;}
+.wedding-cards-pick-a-template ::before {content:url(https://admiretheme.com/demos/weddingcards-demo/images/Pick-a-Template-img-1.jpg);position: absolute;right: 60px;top: -50px;z-index: -1;}
+
+.wedding-cards-customize-your-cards ::before {content: "";position: absolute;top: -150px;background: rgb(0,0,0,0%);width: 100%;height: 329px;border-top: 2px solid #dfe2e5;border-right: 2px solid #dfe2e5;left: -239px;border-bottom: 1px solid #dfe2e5;z-index: -1;}
+.wedding-cards-customize-your-cards ::after {content: url(https://admiretheme.com/demos/weddingcards-demo/images/Customize-Your-Cards-img-1.jpg);position: absolute;left: 195px;top: -53px;z-index: -1;}
+.wedding-cards-build-number-2 ::after {content:url(https://admiretheme.com/demos/weddingcards-demo/images/arrow-right.png);position: absolute;right: -18px;top: 39%;font-size: 22px;}
+.wedding-cards-build-number-2 {background-color: #fff;border-radius: 100%;width: 160px !important;height: 160px;margin: 0 auto;box-shadow: 0 0px 40px 1px rgb(0 0 0 / 20%);z-index: 3;}
+.wedding-cards-build-number-2 .elementor-heading-title {margin-top:50px !important;}
+.wedding-cards-fill-in-the ::after {content: "";position: absolute;right: -374px;top: -150px;background: rgb(0,0,0,0%);width: 100%;height: 332px;border-left: 2px solid #dfe2e5;border-bottom: 2px solid #dfe2e5;z-index: -1;}
+.wedding-cards-fill-in-the ::before {content:url(https://admiretheme.com/demos/weddingcards-demo/images/Pick-a-Template-img-1.jpg);position: absolute;right: 60px;top: -50px;z-index: -1;}
+.wedding-cards-cards-ready ::before {content: "";position: absolute;top: -148px;background: rgb(0,0,0,0%);width: 100%;height: 279px;border-right: 2px solid #dfe2e5;left: -239px;z-index: -1;}
+.wedding-cards-cards-ready ::after {content: url(https://admiretheme.com/demos/weddingcards-demo/images/Customize-Your-Cards-img-1.jpg);position: absolute;left: 180px;top: -53px;z-index: -1;}
+
+.wedding-cards-get-started-button .elementor-button-link{padding:15px 26px !important;} 
+.wedding-cards-get-started-button a:hover {text-decoration: none;}
+.wedding-cards-wedding-invitations {position: absolute !important;left: 55px;top: -60px;}
+.wedding-cards-wedding-announcements {position: absolute !important;right: 0;top: 75px;}
+.wedding-cards-engagement-cards {position: absolute !important;left: 25px;top: 280px;}
+.wedding-cards-popular h3:after {content: "Popular";position: absolute;top: 16px;right: -11px;transform: rotate(45deg);font-size: 13px;font-weight: 600;text-transform: uppercase;color: #000;font-family: "Poppins", Sans-serif;}
+.wedding-cards-footer-link a:hover {text-decoration: none;}
+.wedding-cards-wedding-page-link .elementor-button-link {padding: 0px 0px !important;}
+.wedding-cards-wedding-page-link a:hover {text-decoration: none;}
+.wedding-cards-wedding-page-img {position: absolute !important;left: 65px;top: 3px;}
+.wedding-cards-wedding-page-second {position: absolute !important;right: 0;top: 75px;}
+.wedding-cards-wedding-page-img .elementor-widget-image {background:#fff;}
+
+@media screen and (min-width: 1024px) and (max-width:1169px){
+.wedding-cards-pick-a-template ::after {top: 238%;height: 40px;}
+.wedding-cards-pick-a-template ::before {top: -38px;}
+.wedding-cards-customize-your-cards ::before {top: -156px;width: 70%;left: -174px;}
+.wedding-cards-build-number {width: 130px !important;height: 130px;}
+.wedding-cards-build-number-2 {width: 130px !important;height: 130px !important;}
+.wedding-cards-build-number-2 .elementor-heading-title {margin-top: 40px !important;}
+.wedding-cards-customize-your-cards ::before {height: 292px;}
+.wedding-cards-fill-in-the ::after {right: -249px;top: -144px;width: 73%;}
+.wedding-cards-fill-in-the ::before {top: -44px;}
+.wedding-cards-cards-ready ::before {width: 89%;height: 217px;top: -143px;}
+.wedding-cards-cards-ready ::after {top: -94px;}
+.wedding-cards-build-number .elementor-heading-title {margin-top: 40px !important;}
+.wedding-cards-build-number ::before {left: -14px;top: 37%;}
+.wedding-cards-build-number-2 ::after {right: -14px;top: 37%;}
+.wedding-cards-engagement-cards {top:185px;left:0;}
+.wedding-cards-wedding-invitations {top:-95px;left:35px;}
+.wedding-cards-wedding-announcements {right:20px;}
+.wedding-cards-popular h3:after {top: 10px;right: -16px;}
+.wedding-cards-wedding-page-img {left: 25px;top: -30px;}
+.wedding-cards-wedding-page-second {top: 10px;}
+.wedding-cards-customize-your-cards ::after {left: 124px;top: -95px;}
+}
+
+@media screen and (min-width: 768px) and (max-width:1023px){
+.wedding-cards-request-quote .elementor-button-link {padding:15px 35px !important;}
+.wedding-cards-build-number {height: 120px;width:120px !important;}
+.wedding-cards-build-number .elementor-heading-title {margin-top: 35px !important;}
+.wedding-cards-build-number ::before {left: -17px;top: 33%;}
+.wedding-cards-pick-a-template ::before {top: -65px;}
+.wedding-cards-pick-a-template ::after {top: 134%;height: 46px;}
+.wedding-cards-customize-your-cards ::before {width: 70%;left: -156px;}
+.wedding-cards-build-number-2 {width: 120px !important;height: 120px;}
+.wedding-cards-build-number-2 .elementor-heading-title {margin-top:34px !important;}
+.wedding-cards-customize-your-cards ::after {left: 60px;top: -91px;}
+.wedding-cards-customize-your-cards ::before {height: 290px;}
+.wedding-cards-fill-in-the ::after {height: 302px;right: -158px;top: -140px;width: 72%;}
+.wedding-cards-fill-in-the ::before {top: -70px;}
+.wedding-cards-cards-ready ::before {top: -144px;height: 225px;}
+.wedding-cards-cards-ready ::after {left: 66px;top: -107px;}
+.wedding-cards-wedding-invitations {left: 5px;}
+.wedding-cards-wedding-announcements {right: 10px;}
+.wedding-cards-engagement-cards {left: -8px;top: 235px;}
+.wedding-cards-build-number-2 ::after {top: 35%;right: -16px;}
+.wedding-cards-popular h3:after {top: 11px;right: -15px;}
+.wedding-cards-wedding-page-img {left:0;}
+.wedding-cards-wedding-page-second {top: 83px;}
+}
+@media screen and (min-width: 320px) and (max-width:767px){
+.wedding-cards-wedding-invitations {position: relative;left: 0;top: 0;margin-top:20px;}
+.wedding-cards-wedding-announcements {position: relative;left: 0;top: 0;margin-top:20px;}
+.wedding-cards-engagement-cards {position: relative;left: 0;top: 0;margin-top:20px;}
+.wedding-cards-request-quote .elementor-button-link {padding: 12px 28px !important;}
+.wedding-cards-header-button .elementor-button-link {padding: 12px 35px !important;}
+.wedding-cards-pick-a-template ::before {display:none;}
+.wedding-cards-pick-a-template ::after {display:none;}
+.wedding-cards-build-number ::before {transform: rotate(-91deg);left: 10px !important;top: 86% !important;right:0;}
+.wedding-cards-build-number {width: 130px !important;height: 130px;margin-top: 20px !important;}
+.wedding-cards-build-number .elementor-heading-title {margin-top: 45px !important;}
+.wedding-cards-customize-your-cards ::before {display:none;}
+.wedding-cards-customize-your-cards ::after {display:none;}
+.wedding-cards-build-number-2 ::after {transform: rotate(91deg);left: -23px;top: 86%;}
+.wedding-cards-build-number-2 {width: 130px !important;height: 130px;margin-top: 20px;}
+.wedding-cards-fill-in-the ::before {display:none;}
+.wedding-cards-fill-in-the ::after {display:none;}
+.wedding-cards-cards-ready ::before {display:none;}
+.wedding-cards-cards-ready ::after {display:none;}
+.wedding-cards-build-number-2 .elementor-heading-title {margin-top: 45px !important;}
+.pick-template-left {order:3 ;margin-top: 40px;}
+.pick-template-right {order:1;}
+.pick-template-center {order:2;}
+.wedding-cards-wedding-page-img {position: relative;left: 0;top: 0;margin-top:20px;}
+.wedding-cards-wedding-page-second {position: relative;left: 0;top: 0;margin-top:20px;}
+}
+/* Wedding Cards */

@@ -1,0 +1,187 @@
+/* Elementor Admire */
+.admire-default-banner-area::before {content:''; width:520px; height:370px; background:rgba(255, 255, 255, 0.15); position: absolute; bottom: -180px; left: 43%; transform: translateX(-50%); border-top-left-radius:100%; border-top-right-radius: 100%; z-index:9;}
+.admire-default-banner-area::after {content:''; width:270px; height:200px; background:rgba(255, 255, 255, 0.15); position: absolute; top:0px; left: 50%; transform: translateX(-50%); border-bottom-left-radius:100%; border-bottom-right-radius: 100%; z-index:9;}
+.admire-default-banner-image::after {content:''; width:200px; height:150px; background:rgba(255, 255, 255, 0.15); position: absolute; top:-110px; left: 44%; transform: translateX(-50%); border-bottom-left-radius:100%; border-bottom-right-radius: 100%; z-index:9;}
+.admire-default-banner-title .elementor-widget-container {width:130px !important; height: 130px; position:absolute; text-align:center; align-items:center !important; display:flex !important; justify-content:center !important; padding:0px 10px;top:70px; left:140px;}
+.admire-default-banner-title .elementor-widget-container::before {content:''; width: 153px; height: 50px; position: absolute; bottom: -48px; left: 65px; border: solid 2px #fff; border-bottom-left-radius: 20px; border-top: none; border-right: 0px;}
+.admire-default-choose-box:hover .elementor-image-box-content h3, .admire-default-choose-box:hover .elementor-image-box-content p{ color:#191919 !important;}
+.admire-default-development-video{width:97px !important; height:96px !important; position:absolute !important; z-index:9; right:105px; top:80px;}
+.admire-default-development-video img, .admire-default-working-video img{aspect-ratio:initial !important;}
+.admire-default-development-video .elementor-custom-embed-image-overlay{ width:97px !important; height:96px !important;}
+.admire-default-built-website .elementor-counter-number-suffix {font-size:22px; font-weight:400; color:#0098ff; position:relative; top:-15px; right:0px;}
+.admire-default-custom-list .elementor-icon-list-icon i {font-weight:200 !important;}
+.admire-default-people-working::before {content:''; width: 65%; height: 100%; position: absolute; left: 0px; top: 0px; background: #fff; border-radius: 5px; box-shadow:0px 0px 25px 0px rgba(0, 0, 0, 0.05);}
+.admire-default-people-working-top-dot img {width:82px; height:80px; position:absolute; left:-40px; top:-80px;}
+.admire-default-people-working-bottom-dot img {width:82px; height:80px; position:absolute; right:-40px; bottom:-20px; transform:rotate(180deg);}
+.admire-default-working-video{width:142px !important; height:142px !important; position:absolute !important; z-index:9; right:155px; bottom:-15px;}
+.admire-default-features-box .elementor-image-box-img {height:110px;}
+.admire-default-join-now .elementor-image-box-img {width:175px !important; height:132px !important; text-align:center; align-items:center !important; display:flex !important; justify-content:center !important; background:#fff; border-radius:100%; box-shadow:0px 5px 0px 0px #006aff;}
+.admire-default-happy-client {width:350px !important; position:absolute !important; bottom:0; left:50%; transform:translateX(-50%);}
+.admire-default-custom-list .elementor-icon-list-icon i, .admire-default-working-list .elementor-icon-list-icon i{font-weight:200 !important;}
+.admire-default-progress-bar .elementor-progress-percentage{position:absolute!important;top:-27px;left:auto;right:0}
+.admire-default-progress-bar .elementor-progress-wrapper{margin-top:15px;overflow:visible!important}
+.admire-default-footer-info-box .wp-block-buttons {margin-bottom:-50px; z-index:9; position:relative;}
+.admire-default-footer-info-box{text-align:center;}
+
+@media(max-width: 1199px){
+.admire-default-banner-area::after {top:-110px;}
+.admire-default-development-video{right:15px;}
+.admire-default-built-website {width:180px !important;}
+.admire-default-people-working::before {width:65%; height:100%; left:-30px;}
+.admire-default-people-working .elementor-widget-image::before {width:52px; height:50px; left:-60px; top:-60px;}
+.admire-default-people-working .elementor-widget-image::after {width:52px; height:50px; right:-20px; bottom:-25px;}
+.admire-default-banner-title .elementor-widget-container {left:15px;}
+.admire-default-features-box .elementor-widget-container {min-height:250px;}
+.admire-default-happy-client{ position:relative !important;}
+.admire-default-footer-info-box h2{ font-size:30px !important;}
+}
+@media(max-width: 1023px){
+.admire-default-banner-area::after, .admire-default-banner-image::after{ display:none;}	
+.admire-default-banner-title .elementor-widget-container {width:90px !important; height:90px; left:0px;}
+.admire-default-banner-title .elementor-widget-container::before {width:80px; left:45px;}
+.admire-default-banner-area::before { display:none;}
+.admire-default-built-website {width:180px !important;}
+.admire-default-development-video{right:-40px;}
+.admire-default-people-working::before {width:65%; height:65%; left:-30px;}
+.admire-default-people-working .elementor-widget-image::before {width:52px; height:50px; left:-60px; top:-60px;}
+.admire-default-people-working .elementor-widget-image::after {width:52px; height:50px; right:-20px; bottom:-25px;}
+.admire-default-working-video{right:115px; bottom:185px;}
+.admire-default-features-box .elementor-widget-container {min-height: inherit;}
+.admire-default-footer-info-box h2{ font-size:30px !important; padding:15px 0px !important;}
+}
+@media(max-width: 767px){
+.admire-default-banner-title .elementor-widget-container::before {width:150px;}
+.admire-default-banner-area::after, .admire-default-banner-image::after{ display:none;}	
+.admire-default-development-video {right:23%; top:55%; transform:translate(0%,-50%);}
+.admire-default-banner-title .elementor-widget-container {width:110px !important; height:110px; top:80px; left:60px;}
+.admire-default-built-website .elementor-widget-container{width:180px !important; margin:0 auto;}
+.admire-default-happy-client{ position:relative !important}
+.admire-default-happy-client-images {width:55% !important; margin:0 auto;}
+.admire-default-working-video{right:auto; bottom:auto; top:50%; left:50%; transform:translate(-50%,-50%);}
+.admire-default-join-now .elementor-image-box-img {width:132px !important; margin-bottom:20px !important;}
+.admire-default-people-working .elementor-widget-image::after { display:none;}
+.admire-default-people-working::before {display:none;}
+.admire-default-footer-info-box h6{ font-size:18px}
+.admire-default-footer-info-box h2{ font-size:22px !important; padding:15px 0px !important;}
+}
+@media(max-width: 575px){
+.admire-default-banner-title .elementor-widget-container {width:110px !important; height:110px; top:30px; left:-10px;}
+}
+@media(max-width: 479px) {
+.admire-default-development-video {right:6%; top:46.6%; transform:translate(-0%,-50%);}
+.admire-default-footer-info-box .wp-block-buttons{margin-bottom: -100px; margin-top: 50px;}
+}
+
+@media(min-width: 480px) and (max-width: 767px){
+.admire-default-footer-info-box .wp-block-buttons{margin-bottom: -25px; margin-top: 50px;}
+}
+
+@media(min-width: 768px) and (max-width: 1024px){
+.admire-default-footer-info-box .wp-block-buttons{margin-bottom: -100px; margin-top: 50px;}	
+}
+/* Elementor Admire */
+
+/** GB Admire **/
+.admire-defaultgb-banner-area{ overflow:hidden; position:relative;}
+.admire-defaultgb-banner-image {position:relative;}
+.admire-defaultgb-banner-area::before {content:''; width:520px; height:370px; background:rgba(255, 255, 255, 0.15); position: absolute; bottom: -210px; left: 43%; transform: translateX(-50%); border-top-left-radius:100%; border-top-right-radius: 100%; z-index:9;}
+.admire-defaultgb-banner-area::after {content:''; width:270px; height:200px; background:rgba(255, 255, 255, 0.15); position: absolute; top:0px; left: 50%; transform: translateX(-50%); border-bottom-left-radius:100%; border-bottom-right-radius: 100%; z-index:9;}
+.admire-defaultgb-banner-image::after {content:''; width:200px; height:150px; background:rgba(255, 255, 255, 0.15); position: absolute; top:-140px; left: 32%; transform: translateX(-50%); border-bottom-left-radius:100%; border-bottom-right-radius: 100%; z-index:9;}
+.admire-defaultgb-banner-title {width:130px !important; height: 130px; position:absolute; text-align:center; align-items:center !important; display:flex !important; justify-content:center !important; padding:0px 10px !important;top:35px; left:10px; border-radius:100px;}
+.admire-defaultgb-banner-title::before {content:''; width: 156px; height: 50px; position: absolute; bottom: -48px; left: 65px; border: solid 2px #fff; border-bottom-left-radius: 20px; border-top: none; border-right: 0px;}
+.admire-defaultgb-choose-box:hover{ background:#fff;}
+.admire-defaultgb-choose-box:hover h5, .admire-defaultgb-choose-box:hover p{ color:#191919 !important;}
+.admire-defaultgb-counter h3 {margin-bottom:10px; margin-top:10px;}
+.admire-defaultgb-counter h5{ margin:0px;}
+.admire-defaultgb-feature-box .wp-block-image {height:115px;}
+.admire-default-testimonial-section::before {content:''; width:50%; height:100%; background:#E6EEF3; position:absolute; left:0px; top:0;}
+.admire-default-testimonial-section, .admire-default-testimonial-section .wp-block-image{ position:relative;}
+.admire-defaultgb-footer-info-box .wp-block-buttons {margin-bottom:-50px; z-index:999; position:relative;}
+.admire-defaultgb-product-video .wp-block-embed {margin:0px;}
+
+@media(max-width: 1199px){
+.admire-defaultgb-banner-left h1{ font-size:36px !important;}
+.admire-defaultgb-services h2{padding-right:270px !important; padding-left:270px !important;}
+.admire-defaultgb-features h2{padding-right:270px !important; padding-left:270px !important;}
+.admire-defaultgb-feature-box {padding:20px !important;}	
+.admire-defaultgb-join-now .wp-element-button{padding-right:40px !important; padding-left:40px !important;}
+.admire-defaultgb-team h2{padding-right:200px !important; padding-left:200px !important;}
+.admire-default-products-section h2.has-text-align-center.has-background-color.has-text-color{padding-right:200px !important; padding-left:200px !important;}
+.admire-default-home-post h2{padding-right:200px !important; padding-left:200px !important;}
+.admire-defaultgb-counter{ padding:25px !important;}
+.admire-defaultgb-contact-info-box {padding:30px 15px !important;}
+}
+@media(max-width: 1023px){
+.admire-defaultgb-banner-area::after, .admire-defaultgb-banner-area::before, .admire-defaultgb-banner-image::after{ display:none;}	
+.admire-defaultgb-footer-info-box h6{ font-size:18px}
+.admire-defaultgb-footer-info-box h2{ font-size:22px !important; padding:15px 0px !important;}
+.admire-defaultgb-banner-area {padding-top:0px !important;}
+.admire-defaultgb-banner-left h1{ font-size:30px !important; margin-bottom:0px;}
+.admire-defaultgb-banner-left p {margin-bottom:0px !important;}
+.admire-defaultgb-banner-right {padding-top:40px;}
+.admire-defaultgb-banner-title {width:100px !important; height:100px; top:0px; left:-10px; font-size:16px !important;}
+.admire-defaultgb-why-choose, .admire-defaultgb-development-section, .admire-defaultgb-services, .admire-defaultgb-working-area, .admire-defaultgb-features, .admire-defaultgb-join-now, .admire-defaultgb-team, .admire-default-testimonial-section, .admire-default-products-section, .admire-default-home-post{ padding:40px 15px !important;}
+.admire-defaultgb-working-content{ padding-top:0px !important;}
+.admire-defaultgb-why-choose h2, .admire-defaultgb-development-section h2, .admire-defaultgb-services h2, .admire-defaultgb-working-area h2, .admire-defaultgb-features h2, .admire-defaultgb-join-now h2, .admire-defaultgb-team h2, .admire-default-testimonial-section h2, .admire-default-products-section h2, .admire-default-home-post h2 {font-size:30px !important;}
+.admire-defaultgb-services h2, .admire-defaultgb-features h2, .admire-defaultgb-team h2, .admire-default-home-post h2 { padding:0px 150px !important;}
+.admire-default-products-section h2.has-text-align-center.has-background-color.has-text-color{padding:0px !important; font-size:34px !important; text-align:center !important}
+.admire-defaultgb-join-now .wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column { flex-basis:10% !important;}
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {font-size:19px !important;}
+.admire-defaultgb-join-cart {width:120px;}
+.admire-defaultgb-join-now .wp-block-columns .wp-block-column:nth-child(2), .admire-defaultgb-join-now .wp-block-columns .wp-block-column:nth-child(3) {flex-basis:50% !important; padding:0px !important;}
+.admire-defaultgb-join-now .wp-block-columns .wp-block-button{ text-align:center; width:100%;}
+.admire-default-testimonial-section::before { display:none;}
+.admire-defaultgb-counter{ padding:35px !important;}
+}
+@media(min-width: 768px) and (max-width: 1023px){
+.wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column.admire-defaultgb-banner-left, .wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column.admire-defaultgb-banner-right{flex-basis:auto !important; width:50%; float:left;}
+.admire-defaultgb-counter {width:180px !important;}
+.admire-default-testimonial-section h2, .admire-default-testimonial-section h4{ text-align:left !important;}
+.admire-default-testimonial-section .wp-block-image, .admire-defaultgb-working-area .wp-block-image, .admire-defaultgb-development-section .wp-block-image{margin:0 auto !important; display:table !important; float:none !important;}
+.admire-defaultgb-features .wp-block-columns{gap: 30px !important;}
+.admire-defaultgb-services-single .wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column {flex-basis:48% !important;}
+
+}
+@media(max-width: 991px){
+.admire-defaultgb-development-section .wp-block-column:empty, .admire-defaultgb-working-area .wp-block-column:empty {display:none;}
+.admire-defaultgb-team-member-skills-bar .wp-block-column:empty {display: block;}
+.admire-defaultgb-team-member-skills-bar h5 {text-align:center;}
+.admire-defaultgb-team-member-info-content .wp-block-columns {margin-bottom:20px !important; text-align:center;}
+.admire-defaultgb-team-member-info-content .wp-block-columns .wp-block-image{ margin-bottom:0px !important;}
+}
+@media(max-width: 767px){
+.admire-defaultgb-banner-area::after, .admire-defaultgb-banner-area::before, .admire-defaultgb-banner-image::after{ display:none;}	
+.admire-defaultgb-footer-info-box h6{ font-size:18px}
+.admire-defaultgb-footer-info-box h2{ font-size:22px !important; padding:15px 0px !important;}
+.admire-defaultgb-banner-area {padding-top:0px !important;}
+.admire-defaultgb-banner-left h1{ font-size:30px !important; margin-bottom:0px;}
+.admire-defaultgb-banner-left p {margin-bottom:0px !important;}
+.admire-defaultgb-banner-right {padding-top:40px;}
+.admire-defaultgb-banner-title {width:100px !important; height:100px; top:0px; left:-10px; font-size:16px !important;}
+.admire-defaultgb-why-choose {padding:40px 15px !important;}
+.admire-defaultgb-why-choose h2{padding-bottom:20px !important;}
+.admire-defaultgb-development-section {padding:40px 15px !important;}
+.admire-defaultgb-development-content h2{ font-size:30px !important;}
+.admire-defaultgb-development-content p{ padding:0px !important;}
+.admire-defaultgb-counter {width:175px !important;}
+.admire-defaultgb-services{ padding:40px 15px !important}
+.admire-defaultgb-services h2{ padding:0px !important; font-size:28px !important;}
+.admire-defaultgb-working-content {padding-top:0px !important;}
+.admire-defaultgb-working-content h2{ font-size:30px !important;}
+.admire-defaultgb-working-content p{ padding:0px !important;}
+.admire-defaultgb-working-video .wp-block-image {margin:0px !important;}
+.admire-defaultgb-features{padding:40px 15px !important;}
+.admire-defaultgb-features h2{padding:0px !important; font-size:30px !important;}
+.admire-defaultgb-join-now{padding:40px 15px !important;}
+.admire-defaultgb-join-cart {width:110px; margin:0 auto; margin-bottom:20px;}
+.admire-defaultgb-join-content h2{ padding-right:0px !important; font-size:30px !important; text-align:center !important;}
+.admire-defaultgb-join-content h5{ text-align:center !important;}
+.admire-defaultgb-join-now .wp-block-button{width:100% !important; text-align:center !important;}
+.admire-defaultgb-team{padding:40px 15px !important;}
+.admire-defaultgb-team h2{ padding:0px !important; font-size:30px !important;}
+.admire-defaultgb-default-page-content h2 {font-size:30px !important;}
+.admire-defaultgb-services-single h2{font-size:28px !important;}
+.admire-defaultgb-team-member-skills-right h2 {font-size:36px !important;}
+.admire-defaultgb-team-member-skills {padding-top:0px !important;}
+}
+/** GB Admire **/
